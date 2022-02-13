@@ -5,13 +5,15 @@ import Cookies from "universal-cookie";
 
 import { ChannelListContainer, ChannelContainer } from "./components";
 
+import './App.css'
+
 const apiKey = "ehc23k66qsgy";
 const client = StreamChat.getInstance(apiKey);
 
 function App() {
   return (
     <div className="app__wrapper">
-      <Chat client={client} theme="team dark">
+      <Chat client={client} theme="team light">
         <ChannelListContainer />
         <ChannelContainer />
       </Chat>
