@@ -1,7 +1,7 @@
 # Realtime Chat APP
 - Build with React
-- Deployed APP to Netlify
-- Use NodeJS for the backend server
+- Deployed APP to Netlify ( https://ramanda-chat-app.netlify.app/ )
+- Use NodeJS for the backend server ( https://github.com/itsmee3223/chat-app-backend )
 - Use Twilio  ( https://www.twilio.com/ ), Getstream API ( https://getstream.io/ )
 
 
