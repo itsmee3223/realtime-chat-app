@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Realtime Chat APP
+- Build with React
+- Deployed APP to Netlify
+- Use NodeJS for the backend server
+- Use Twilio  ( https://www.twilio.com/ ), Getstream API ( https://getstream.io/ )
+
+
+## Find JavaScript Mastery Here:
+- Github: https://github.com/adrianhajdin/project_medical_pager_chat
+- Discord Group: https://discord.gg/n6EdbFJ
+- Instagram: https://instagram.com/javascriptmastery
+- Twitter: https://twitter.com/jsmasterypro
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
